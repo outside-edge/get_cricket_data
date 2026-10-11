@@ -12,7 +12,7 @@ Scripts for scraping [espncricinfo.com](http://www.espncricinfo.com/) and data o
 The scripts produce [final_output.csv](data/final_output.csv)
 
 ### Application
-* Article based on current scripts/data: [Fairly Random](https://github.com/dwillis/toss-up)
+* Article based on current scripts/data: [Fairly Random](https://github.com/outside-edge/toss_up)
 * An article based on previous version of the data: [Cricket: An Unfairly Random Game?](http://gbytes.gsood.com/2011/05/07/cricket-an-unfairly-random-game/)
 
 ### License
